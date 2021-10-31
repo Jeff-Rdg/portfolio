@@ -49,7 +49,7 @@ header{
     font-weight: 200;
     text-shadow: .2rem .3rem 2px rgba(0,0,0,.4);
     line-height: 3.5rem;
-    margin-bottom 2rem;
+    margin-bottom: 3rem;
     opacity: 0;
     animation: movebanner 1s 0.2s forwards;
 }
@@ -58,7 +58,7 @@ header{
     color: #fff;
     font-size: 2rem;
     text-shadow: .2rem .2rem rgba(0,0,0,.4);
-    margin-bottom: 2rem;
+    margin-bottom: 4rem;
     opacity: 0;
     animation: movebanner 1s 0.5s forwards;
 
